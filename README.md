@@ -47,7 +47,7 @@ Online tutorial course "100 days with SwiftUI" finished with merit
 - Swift language fundamentals
 - Views, Stacks, Modifiers, Machine Learning, Animation, Data Flow, Drawing, CoreData, UIKit Integration, MapKit, Accessibility, Gestures, Layout and Geometry,
 
-### Raywenderlich.com (30/03/2020 - 01/09/2020)
+#### Raywenderlich.com (30/03/2020 - 01/09/2020)
 Website with high quality video courses, books, and written tutorials. The modules I have completed:
 - Swift Fundamentals
 - SwiftUI Fundamentals
@@ -55,7 +55,7 @@ Website with high quality video courses, books, and written tutorials. The modul
 - iOS Data and Networking (CoreData, URLSession)
 - Software Engineering for iOS (Git, Command Line Basics)
 
-### Design+Code(05/2020 - 06/2020)
+#### Design+Code(05/2020 - 06/2020)
 Three parts online course for designers and developers with focus on translating designs into code and building apps for all platforms.
 
 
