@@ -18,7 +18,7 @@ From the start of the first lockdown, I was fully dedicated to learning iOS deve
 
 ### Teamwork / Working with Others:
 
-Before I started learning to code I was a chef at Rex Whistler. It is a restaurant with two Rosettes in the prestigious AA Guide. Delivering such a level of excellence requires close collaboration and  effective communication between kitchen members. These skills are even more important when working under time pressure. To make the kitchen run smoothly each chef needs to know what others do, be responsible not only for their work but also make sure that no team member is left behind. I’ve found that the same principles apply to pair programming and team projects that I did extensively during my time at Makers. I’ve found that open communication, active listening, showing respect, recognising others’ contributions and safe environment help create better code and better product. Influencing and valuing other members of your team enable achieving bigger goals.
+Before I started learning to code I was a chef at Rex Whistler. It is a restaurant with two Rosettes in the prestigious AA Guide. Delivering such a level of excellence requires close collaboration and effective communication between kitchen members. These skills are even more important when working under time pressure. To make the kitchen run smoothly each chef needs to know what others do, be responsible not only for their work but also make sure that no team member is left behind. I’ve found that the same principles apply to pair programming and team projects that I did extensively during my time at Makers. I’ve found that open communication, active listening, showing respect, recognising others’ contributions and safe environment help create better code and better product. Influencing and valuing other members of your team enable achieving bigger goals.
 
 ### Analytical Reasoning:
 
@@ -93,4 +93,4 @@ Three parts online course for designers and developers with a focus on translati
 ## Hobbies
 
 - Cycling: Long cycling rides through England’s lost lanes and playing Velogames - Fantasy Cycling Game.
-- Art: Having unlimited access to all Londons museums and galleries for the last seven years broaden my interest  in contemporary art.
+- Art: Having unlimited access to all Londons museums and galleries for the last seven years broaden my interest in contemporary art.
