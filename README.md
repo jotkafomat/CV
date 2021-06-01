@@ -4,13 +4,6 @@ I always seek to move forward, learn and develop new skills. While doing this I'
 My determination, dedication and self-motivation helped me to get an internship at Farmdrop's iOS team where I gain commercial experience. To learn more hard skills and industry best practices, I secured a place at a highly selective, intensive bootcamp at Makers Academy.
 While waiting to begin my career in software development and contribute my skills to an ambitious and professional iOS team I’m building a The Food app - an easy to navigate and searchable collection of recipes backed by The Guardian API.
 
-## Projects
-| Name 	| Type 	| Timeframe 	| Description 	| Languages & Frameworks 	| Integration & Deployment Tools 	| Links 	|
-|-	|-	|-	|-	|-	|-	|-	|
-| [**Why Leave**](https://why-leave.vercel.app) 	| Team Project 	| 2 weeks 	| Project that deals with Refugee/Migrant misinformation problem.<br> <br>An interactive map of the world with pins that help user see what's going on in that country in terms of human rights abuses and why people are actually fleeing. 	| React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap. 	| Heroku, Vercel, Travis CI. 	| [Frontend](https://github.com/timcastillogill/Why_Leave_Front_End)<br><br>[Backend](https://github.com/Joshuamac2/Why-leave-backend) 	|
-| **Chitter** 	| Individual <br>Project 	| Weekend challenge during Makers Academy Bootcamp 	| A database project that allows the users to post messages to a public stream. 	| Ruby, Sinatra, Capybara, HTML, CSS, PostgresSQL. 	| Travis CI 	| [GitHub](https://github.com/jotkafomat/chitter-challenge) 	|
-| **Thermostat** 	| Pair Programming 	| 2 weeks 	| An iOS app to control temperature in the room. 	| SwiftUI, Combine, XCTest (unit and UI tests). 	|  	| [GitHub](https://github.com/jotkafomat/ThermostatSwiftUI) 	|
-
 ## Skills
 ### Speed of Learning / Commitment to learning
 
@@ -28,30 +21,21 @@ My sociology degree and my experience as a freelance researcher thought me how t
 
 Both research and work in the kitchen meant that I had to be organised and manage my time very well to deliver a consistently high quality product. I used to start every day in the kitchen with a detailed plan. Prioritising work items considering short term goals (such as the next lunch service) and having in mind the bigger picture. Making sure that I had time to do things I needed to do daily and keeping ahead with dishes that need more time to prepare. I used the same technique when planning my days during the bootcamp. I used a Trello board to plan my tasks and track my progress, which gave me confidence that I was on track with my learning. I also set up similar boards for team projects where we could write tickets, prioritise them and estimate difficulty and time needed to deliver them.
 
-## Experience
+## Technical Experience
 
-**Farmdrop** (07/2020 - 08/2020)<br>
-_Intership_<br>
+## Projects
+| Name 	| Type 	| Timeframe 	| Description 	| Languages & Frameworks 	| Integration & Deployment Tools 	| Links 	|
+|-	|-	|-	|-	|-	|-	|-	|
+| [**Why Leave**](https://why-leave.vercel.app) 	| Team Project 	| 2 weeks 	| Project that deals with Refugee/Migrant misinformation problem.<br> <br>An interactive map of the world with pins that help user see what's going on in that country in terms of human rights abuses and why people are actually fleeing. 	| React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap. 	| Heroku, Vercel, Travis CI. 	| [Frontend](https://github.com/timcastillogill/Why_Leave_Front_End)<br><br>[Backend](https://github.com/Joshuamac2/Why-leave-backend) 	|
+| **Chitter** 	| Individual <br>Project 	| Weekend challenge during Makers Academy Bootcamp 	| A database project that allows the users to post messages to a public stream. 	| Ruby, Sinatra, Capybara, HTML, CSS, PostgresSQL. 	| Travis CI 	| [GitHub](https://github.com/jotkafomat/chitter-challenge) 	|
+| **Thermostat** 	| Pair Programming 	| 2 weeks 	| An iOS app to control temperature in the room. 	| SwiftUI, Combine, XCTest (unit and UI tests). 	|  	| [GitHub](https://github.com/jotkafomat/ThermostatSwiftUI) 	|
+
+## Work
+Farmdrop (07/2020 - 08/2020)<br>
+_**Intership**_<br>
 - Using SwiftUI the mobile team and I rewrote a few screens in the iOS app. Implementing features to support dark mode, dynamic type and screen reader. I learnt how to write snapshot tests, use Jira and translate designs from Zeplin into code. My code is now part of the live app..
 
-**Tate Eats** (11/2013 - 10/2020)<br>
-_Chef de Partie_<br>
-I worked at Rex Whistler Restaurant, Two AA Rosette, in Tate Britain Gallery
-- Fast-paced environment managing part of the main kitchen
-- Preparing food to a high standard
-- Attention to detail when managing stocks
-Diligently complying with HACCP procedures
-- I was proud to be a part of an organisation whose profit supports the Gallery.
-
-**PAG Uniconsult**, Warsaw, Poland. & **Pentor RI**, Warsaw, Poland. (2008 to 2011)<br>
-_Freelance researcher_
-
-- Conducting individual interviews and focus group
-- Analysis of qualitative and quantitative data
-- Writing reports
-
 ## Education
-
 #### Makers Academy (01/09/2020 - 18/12/2020)
 Highly selective 16 week intensive coding bootcamp with focus on Test Driven Development, emphasising pair programming, agile workflow and XP values.
 
@@ -77,6 +61,27 @@ The website with high quality video courses, books, and written tutorials. The m
 #### Design+Code(05/2020 - 06/2020)
 Three parts online course for designers and developers with a focus on translating designs into code and building apps for all platforms.
 
+## Non-Technical Experience
+
+## Work
+Tate Eats (11/2013 - 10/2020)<br>
+_**Chef de Partie**_<br>
+I worked at Rex Whistler Restaurant, Two AA Rosette, in Tate Britain Gallery
+- Fast-paced environment managing part of the main kitchen
+- Preparing food to a high standard
+- Attention to detail when managing stocks
+Diligently complying with HACCP procedures
+- I was proud to be a part of an organisation whose profit supports the Gallery.
+
+PAG Uniconsult, Warsaw, Poland. & Pentor RI, Warsaw, Poland. (2008 to 2011)<br>
+_**Freelance researcher**_
+
+- Conducting individual interviews and focus group
+- Analysis of qualitative and quantitative data
+- Writing reports
+
+## Education
+
 #### University of Warsaw (09/2004-11/2012)
 
 - MA in Sociology
@@ -90,7 +95,7 @@ Three parts online course for designers and developers with a focus on translati
 - BA in Tour Operating
 - Subjects included: Logic, Statistic
 
-## Hobbies
+## Interests
 
 - Cycling: Long cycling rides through England’s lost lanes and playing Velogames - Fantasy Cycling Game.
 - Art: Having unlimited access to all Londons museums and galleries for the last seven years broaden my interest in contemporary art.
